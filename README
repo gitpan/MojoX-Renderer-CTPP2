@@ -1,0 +1,40 @@
+MojoX-Renderer-CTPP2
+
+This module implements a HTML::CTPP2 renderer for the Mojo
+framework.
+
+INSTALLATION
+
+To install this module, run the following commands:
+
+  perl Makefile.PL
+  make
+  make test
+  make install
+
+SUPPORT AND DOCUMENTATION
+
+After installing, you can find documentation for this module with the
+perldoc command.
+
+    perldoc MojoX::Renderer::CTPP2
+
+You can also look for information at:
+
+    RT, CPAN's request tracker
+        http://rt.cpan.org/NoAuth/Bugs.html?Dist=MojoX-Renderer-CTPP2
+
+    CPAN Ratings
+        http://cpanratings.perl.org/d/MojoX-Renderer-CTPP2
+
+    Search CPAN
+        http://search.cpan.org/dist/MojoX-Renderer-CTPP2/
+
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2009 Victor M Elfimov
+
+This program is free software; you can redistribute it and/or modify it
+under the same terms as Perl itself.
+
