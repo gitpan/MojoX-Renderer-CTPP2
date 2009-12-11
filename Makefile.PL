@@ -15,7 +15,7 @@ WriteMakefile(
     PREREQ_PM => {
         'Test::More'    => 0,
         'Mojo'          => 0.9,
-        'HTML::CTPP2'   => 2.5.3,
+        'HTML::CTPP2'   => 2.5.12,
     },
     dist                => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },
     clean               => { FILES => 'MojoX-Renderer-CTPP2-*' },
